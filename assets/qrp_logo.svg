@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180" height="36" viewBox="0 0 180 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="36" rx="8" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="180" y2="36" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0F13"/>
+      <stop offset="1" stop-color="#121821"/>
+    </linearGradient>
+  </defs>
+  <polyline points="10,26 25,18 35,22 46,12 58,16 72,8 90,14 108,10 124,16 142,12 160,18 170,14"
+            fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="10" cy="26" r="2.2" fill="#00E5FF"/>
+  <circle cx="46" cy="12" r="2.2" fill="#00E5FF"/>
+  <circle cx="90" cy="14" r="2.2" fill="#00E5FF"/>
+  <circle cx="124" cy="16" r="2.2" fill="#00E5FF"/>
+  <circle cx="170" cy="14" r="2.2" fill="#00E5FF"/>
+  <g transform="translate(12,6)">
+    <rect x="0" y="0" width="24" height="24" rx="6" fill="#0B0F13" stroke="#1f2a36"/>
+    <path d="M7 12a5 5 0 1 1 3.5 4.77l2.2 2.2" stroke="#8AB4F8" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <path d="M14 8v8" stroke="#00E5FF" stroke-width="1.6" stroke-linecap="round"/>
+  </g>
+  <text x="46" y="24" fill="#E6F1FF" font-family="Inter, Segoe UI, Arial" font-weight="600" font-size="14">
+    Quant Research Platform
+  </text>
+</svg>
