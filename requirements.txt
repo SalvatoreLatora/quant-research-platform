@@ -10,3 +10,4 @@ websocket-client==1.8.0
 xgboost==2.0.3
 lightgbm==4.3.0
 flaml==2.1.2
+
